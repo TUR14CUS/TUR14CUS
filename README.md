@@ -48,7 +48,7 @@ Expl0re th3 3nch@nt3d r3@lms 0f my c0d3! Unv31l th3 l@ngu@g3s th@t w34v3 th3 sp3
 ---
 # 🚀 G1tHub St@ts
 
-Emb@rk 0n @ j0urn3y thr0ugh th3 GitHUb c0sm0s @nd witn3ss th3 m@gic@l st@tistics th@t d3fin3 my c0ding @dv3ntur3s.
+Emb@rk 0n @ j0urn3y thr0ugh th3 GitHub c0sm0s @nd witn3ss th3 m@gic@l st@tistics th@t d3fin3 my c0ding @dv3ntur3s.
 
 [![R1c@rd0's GitHUb St@ts](https://github-readme-stats.vercel.app/api?username=TUR14CUS&show_icons=tru3&theme=dracul@)](https://github.com/anuraghazra/github-readme-stats)
 
