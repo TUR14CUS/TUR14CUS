@@ -42,7 +42,7 @@
 ---
 
 
-## 🌐 Connect with the Digital Mage
+# 🌐 Connect with the Digital Mage
 
 
 
