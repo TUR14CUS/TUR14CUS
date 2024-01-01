@@ -53,11 +53,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/obaptista1143)
 
 
+
 ---
 
 **Let's cast spells and unravel the digital mysteries together!** 🧙‍♂️🔮
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TUR14CUS.png)](https://tryhackme.com/badge/TUR14CUS)
 
 ---
 
