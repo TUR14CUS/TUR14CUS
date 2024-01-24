@@ -1,74 +1,57 @@
 <div align="center">
-
-# 🧙‍♂️ Welcome, Sir! Let's Dive Into the Cyber Mysteries! 💻🌐
-
-**Hey there, Sir! I'm Ricardo Santos, a digital sorcerer on a quest through the enchanting realms of cyberscurity, web sorcery, and the arcane art of deciphering data spells. 🔍✨**
-
-![Web Warlock](https://img.shields.io/badge/Web%20Warlock-Master%20of%20Code-green?style=for-the-badge&logo=html5)
-![Data Wizard](https://img.shields.io/badge/Data%20Wizard-Magician%20of%20Insights-purple?style=for-the-badge&logo=python)
-![Enchanted Data Wizard](https://img.shields.io/badge/Enchanted%20Data%20Wizard-Magician%20of%20Insights-purple?style=for-the-badge&logo=python)
-![Code Sorcerer](https://img.shields.io/badge/Code%20Sorcerer-Crafter%20of%20Digital%20Spells-blue?style=for-the-badge&logo=javascript)
-![Web Wanderer](https://img.shields.io/badge/Web%20Wanderer-Explorer%20of%20Digital%20Realms-green?style=for-the-badge&logo=html5)
-
-
----
-
-# 🚀 Cybernetic Quests
-
-🛡️ **Cyberscurity:** Warding off digital phantoms and guarding the digital gates.
-
-💻 **Web Sorcery:** Conjuring digital realms from mere whispers of code.
-
-📊 **Data Spells:** Deciphering the mystical patterns woven into the fabric of data.
-
----
-
-# 🛠️ Wizard's Arsenal
-
-🌐 **Enchanted Firewall:** Shielding against cyber incantations with an impenetrable barrier.
-
-💻 **Code Wand:** Channeling the arcane power to cut through bugs and challenges.
-
-📈 **Data Crystal Ball:** Peering into the cyber ether to unveil hidden patterns.
-
----
-
-# 🚀 GitHub Stats
-
-<a href="https://github.com/TUR14CUS">
-<img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUR14CUS&layout=compact&theme=dracula">
-<img height=160em src="https://github-readme-stats.vercel.app/api?username=TUR14CUS&show_icons=true&theme=dracula">
     
+# Welcome to My GitHub Profile
+
+## Introduction
+
+I'm passionate about cybersecurity, data analysis, and web development. Here on GitHub, you'll find a diverse collection of projects spanning these areas, showcasing my skills and creativity.
+
+## Skills Overview
+
+### Frontend Development
+
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+  ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=flat)
+
+### Backend Development
+
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+
+### Databases
+
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+
+## Projects
+
+Explore my repositories to discover a variety of projects showcasing my expertise and interests. Whether it's cybersecurity tools, data analysis scripts, or innovative web applications, there's something for everyone.
+
+Feel free to reach out, collaborate, or share your thoughts on any project. Happy coding! 🚀
+
 ---
 
+Feel free to customize this README according to your preferences, adding more sections or details as needed.
 
-# 🌐 Connect with the Digital Mage
+## Connect with me
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tur14cus/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-green?style=for-the-badge&logo=github)](https://github.com/TUR14CUS)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/obaptista1143)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/obaptista1143)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/obaptista1143)
-
-
-
----
-
-**Let's cast spells and unravel the digital mysteries together!** 🧙‍♂️🔮
-
----
-
-**"Exploring the digital realms, one line of code at a time. ✨"**
-
-**"Turning dreams into digital realities. 🌌"**
-
-**"Where magic meets technology, that's where I thrive. 🚀"**
-
-**"Decoding the secrets of data, like a digital sorcerer. 🔍"**
-
-**"Crafting spells in Python and weaving wonders in HTML. 🐍💻"**
-
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/yourgithubhandle)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/yourinstagramhandle)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/yourfacebookhandle)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourtwitterhandle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat)](https://yourportfolio.com)
 </div>
