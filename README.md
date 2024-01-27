@@ -37,6 +37,11 @@ I'm passionate about cybersecurity, data analysis, and web development. Here on 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 
+### Stats Available
+
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=TUR14CUS&theme=vue-dark&hide_border=true" /> <br>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUR14CUS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+
 ## Projects
 
 Explore my repositories to discover a variety of projects showcasing my expertise and interests. Whether it's cybersecurity tools, data analysis scripts, or innovative web applications, there's something for everyone.
