@@ -28,6 +28,7 @@ I'm passionate about cybersecurity, data analysis, and web development. Here on 
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 
 ### Databases
 
@@ -42,8 +43,8 @@ Explore my repositories to discover a variety of projects showcasing my expertis
 
 Feel free to reach out, collaborate, or share your thoughts on any project. Happy coding! 🚀
 
-
 ## Connect with me
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/TUR14CUS)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/TUR14CUS)
